@@ -1,15 +1,13 @@
 package com.example.donservice.dtos;
 
-import com.example.donservice.models.User;
+
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import java.time.LocalDate;
 
-/**
- * @author abdellah
- **/
+
 @Data
 @NoArgsConstructor
 @AllArgsConstructor

@@ -1,6 +1,6 @@
 package com.example.donservice.dtos;
 
-import com.example.donservice.entities.UserDon;
+
 import com.example.donservice.models.Organisation;
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -9,9 +9,6 @@ import lombok.NoArgsConstructor;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author abdellah
- **/
 
 @Data
 @NoArgsConstructor

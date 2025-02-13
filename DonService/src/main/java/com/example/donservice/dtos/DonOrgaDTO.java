@@ -1,13 +1,11 @@
 package com.example.donservice.dtos;
 
-import com.example.donservice.models.Organisation;
+
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-/**
- * @author abdellah
- **/
+
 
 @Data
 @NoArgsConstructor

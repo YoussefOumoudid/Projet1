@@ -7,9 +7,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/**
- * @author abdellah
- **/
+
 @RestController
 @RequestMapping("/api/organisations")
 public class OrganisationController {
